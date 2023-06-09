@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>set.txt</file>
+        <file>log1.txt</file>
+        <file>log2.txt</file>
+        <file>Icon.png</file>
+    </qresource>
+</RCC>
